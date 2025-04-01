@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Tanay Shah
+### Welcome to My Data Analytics Portfolio
 
 🔍 **Passionate Data Analyst | Business Intelligence Enthusiast | Project Management Professional**
 
 ### About Me
-I am a dedicated data analyst with a robust background in business intelligence, data science, and project management. My expertise lies in transforming raw data into meaningful insights that drive strategic decision-making. I hold a Bachelor's in Technology, a Project Management degree, and have completed a Business Intelligence program.
+I am a dedicated data analyst with a robust background in business intelligence, data science, and project management. My expertise lies in collaboratively transforming raw data into meaningful insights that empower teams to make informed strategic decisions. Through cross-functional collaboration, I develop data-driven solutions that align with business objectives and help stakeholders identify opportunities for growth and improvement.   
 
 ### Professional Interests
 - 📊 Data Analysis & Visualization
@@ -13,8 +13,8 @@ I am a dedicated data analyst with a robust background in business intelligence,
 - 📋 Project Management
 
 ### Current Pursuits
-- 🎓 I’m continuously enhancing my skills in SQL, Python, Power BI, and Machine Learning
-- 📚 I am exploring advanced project management methodologies and techniques
+- 🎓 Applying and deepening my expertise in SQL, Python, Power BI, and Machine Learning
+- 📚 Implementing advanced project management methodologies and techniques in data-focused initiatives
 
 ### Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanay-shah-raj)
